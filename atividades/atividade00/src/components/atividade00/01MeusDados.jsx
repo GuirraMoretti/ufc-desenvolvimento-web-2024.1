@@ -1,9 +1,10 @@
 import { Component } from "react"
+import "./estilos.css"
 
 // Forma Clássica
 export function MeusDados01c() {
     return (
-        <div>
+        <div className="fundo-amarelo">
             <h2>Francisco Vitor Gomes Castro</h2>
             <h2>Sistemas de Informação</h2>
             <h2>Universidade Federal do Ceará</h2>

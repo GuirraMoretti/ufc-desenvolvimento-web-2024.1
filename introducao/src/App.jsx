@@ -2,6 +2,7 @@ import HelloWorld from "./components/01HelloWorld/HelloWorld";
 import FuncoesInternas from "./components/02FuncoesInternas/FuncoesInternas";
 import Loja from "./components/03Props/loja";
 import Curso from "./components/03Props/Curso";
+import Galaxia from "./components/04Children/Galaxia";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <HelloWorld /> */}
       {/* <FuncoesInternas /> */}
       {/* <Loja /> */}
-      <Curso />
+      {/* <Curso /> */}
+      <Galaxia nome={"Via Lactea"}/>
     </div>
   );
 }
