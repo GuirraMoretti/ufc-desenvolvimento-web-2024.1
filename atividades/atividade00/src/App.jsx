@@ -1,5 +1,5 @@
 import MeusDados01 from "./components/atividade00/01MeusDados";
-import { MeusDados01a, MeusDados01c } from "./components/atividade00/01MeusDados";
+import { MeusDados01a, MeusDados01c, MeusDados01cl as MD01Class } from "./components/atividade00/01MeusDados";
 import MeusDados02 from "./components/atividade00/02MeusDados";
 import Temperatura03 from "./components/atividade00/03Temperatura";
 
@@ -14,6 +14,8 @@ function App() {
       <MeusDados01a />
       <hr />
       <MeusDados01 />
+      <hr />
+      <MD01Class />
       <hr />
       <MeusDados02 
         nome="Francisco Vitor Gomes Castro"
