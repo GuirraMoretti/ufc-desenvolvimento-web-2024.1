@@ -1,10 +1,10 @@
-import HelloWorld from "./components/01HelloWorld/HelloWorld";
+/* import HelloWorld from "./components/01HelloWorld/HelloWorld";
 import FuncoesInternas from "./components/02FuncoesInternas/FuncoesInternas";
 import Loja from "./components/03Props/loja";
 import Curso from "./components/03Props/Curso";
 import Galaxia from "./components/04Children/Galaxia";
 import ComPai from "./components/05ComPaiFilho/ComPai";
-import Estado from "./components/06Estado/Estado";
+import Estado from "./components/06Estado/Estado"; */
 import Pokemon from "./components/06Estado/Pokemon";
 
 function App() {
